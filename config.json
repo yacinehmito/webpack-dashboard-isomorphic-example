@@ -1,0 +1,14 @@
+{
+  "server": {
+    "color": "blue",
+    "port": 3001,
+    "title": "Server",
+    "minimal": false
+  },
+  "client": {
+    "color": "yellow",
+    "port": 3002,
+    "title": "Client",
+    "minimal": false
+  }
+}
