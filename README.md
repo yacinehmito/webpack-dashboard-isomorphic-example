@@ -106,7 +106,7 @@ this in one command.
 
 ## Parallel builds
 
-I didn't try this yet but you should be able to have the two builds run
+I didn't try this yet but you should be able to have the two bundles run
 concurrently with
 [parallel-webpack](https://github.com/trivago/parallel-webpack/).
 

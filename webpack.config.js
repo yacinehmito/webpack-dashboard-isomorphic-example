@@ -37,7 +37,7 @@ const client = Object.assign({
   name: 'client',
   entry: path.resolve(__dirname, 'client', 'index.js'),
   output: {
-    path: path.resolve('/tmp/nq/public'),
+    path: path.resolve(__dirname, 'dist', 'server'),
     filename: 'index.js'
   },
   target: 'web',
