@@ -10,8 +10,6 @@ This is especially useful for isomorphic apps, which are
 expected to share a lot of code between client and server (hence the
 name of the repo, to keep it short)
 
-**This repo uses webpack 2 and an unmerged PR on webpack-dashboard**
-
 ## To get it working
 
 Clone the repo and use your favourite package manager to pull the dependencies.
