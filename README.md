@@ -21,7 +21,7 @@ command:
 webpack --watch
 ```
 
-Logs are sent to the standard output, but also to two newly opened unix
+Logs are sent to the standard output, but also to two newly opened
 sockets in port 3001 and 3002 (so make sure those aren't already used).
 
 Reports for the server bundle are sent to the socket of port 3001, while
